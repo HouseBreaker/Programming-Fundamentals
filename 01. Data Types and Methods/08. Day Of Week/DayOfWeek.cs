@@ -8,7 +8,7 @@
 		{
 			var day = int.Parse(Console.ReadLine());
 
-			day = day != 7 ? day : 0;
+			day = day % 7;
 			Console.WriteLine((System.DayOfWeek)day);
 		}
 	}
