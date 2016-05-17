@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Circle Area (12 Digits 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Exact Sum of Real Numbers", "03. Exact Sum of Real Numbers\03. Exact Sum of Real Numbers.csproj", "{7C73CB6F-3FD5-4007-925B-E654943009E0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Elevator", "04. Elevator\04. Elevator.csproj", "{F1C4759B-E6A3-43C2-A102-3A63C6D20E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Special Numbers", "05. Special Numbers\05. Special Numbers.csproj", "{D6B0235A-D0E6-46CD-BD49-ED620D58A7CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{7C73CB6F-3FD5-4007-925B-E654943009E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C73CB6F-3FD5-4007-925B-E654943009E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C73CB6F-3FD5-4007-925B-E654943009E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C4759B-E6A3-43C2-A102-3A63C6D20E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C4759B-E6A3-43C2-A102-3A63C6D20E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C4759B-E6A3-43C2-A102-3A63C6D20E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C4759B-E6A3-43C2-A102-3A63C6D20E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B0235A-D0E6-46CD-BD49-ED620D58A7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B0235A-D0E6-46CD-BD49-ED620D58A7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B0235A-D0E6-46CD-BD49-ED620D58A7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B0235A-D0E6-46CD-BD49-ED620D58A7CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
