@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. Vowel or Digit", "13. V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14. Integer to Hex and Binary", "14. Integer to Hex and Binary\14. Integer to Hex and Binary.csproj", "{B04B3610-5BCC-45B4-BCE7-8FC8C9C5AB43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Comparing Floats", "Comparing Floats\15. Comparing Floats.csproj", "{CD88271E-E80C-414D-A1B4-CCA6B8B8FE4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15. Comparing Floats", "15. Comparing Floats\15. Comparing Floats.csproj", "{CD88271E-E80C-414D-A1B4-CCA6B8B8FE4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16. Print Part of ASCII table", "16. Print Part of ASCII table\16. Print Part of ASCII table.csproj", "{B07DC9D1-20CD-4C62-AF79-A1C56D25B710}"
 EndProject
