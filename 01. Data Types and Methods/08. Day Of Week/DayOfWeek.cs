@@ -8,8 +8,15 @@
 		{
 			var day = int.Parse(Console.ReadLine());
 
-			day = day % 7;
-			Console.WriteLine((System.DayOfWeek)day);
+			if (day < 1 || day > 7)
+			{
+				Console.WriteLine("error");
+			}
+			else
+			{
+				day = day == 7 ? 0 : day;
+				Console.WriteLine((System.DayOfWeek)day);
+			}
 		}
 	}
 }

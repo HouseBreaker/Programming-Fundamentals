@@ -9,14 +9,24 @@
 		{
 			var size = int.Parse(Console.ReadLine());
 
-			Console.WriteLine(new string('-', size * 2));
+			PrintHeaderRow(size);
 
-			for (int i = 0; i < size / 2; i++)
+			for (int i = 0; i < size - 2; i++)
 			{
-				var slashes = string.Concat(Enumerable.Repeat(@"\/", size - 1));
-				Console.WriteLine("-" + slashes + "-");
+				PrintMiddleRow(size);
 			}
 
+			PrintHeaderRow(size);
+		}
+
+		private static void PrintMiddleRow(int size)
+		{
+			var slashes = string.Concat(Enumerable.Repeat(@"\/", size - 1));
+			Console.WriteLine("-" + slashes + "-");
+		}
+
+		private static void PrintHeaderRow(int size)
+		{
 			Console.WriteLine(new string('-', size * 2));
 		}
 	}
