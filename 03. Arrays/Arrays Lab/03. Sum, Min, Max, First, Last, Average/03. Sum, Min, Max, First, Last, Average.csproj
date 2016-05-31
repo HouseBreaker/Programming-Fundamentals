@@ -7,8 +7,8 @@
     <ProjectGuid>{B04F50E2-31C0-4698-AD0C-1300EAA0FD9D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_3.Sum__Min__Max__First__Last__Average</RootNamespace>
-    <AssemblyName>_3.Sum__Min__Max__First__Last__Average</AssemblyName>
+    <RootNamespace>_03.Sum__Min__Max__First__Last__Average</RootNamespace>
+    <AssemblyName>_03.Sum__Min__Max__First__Last__Average</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

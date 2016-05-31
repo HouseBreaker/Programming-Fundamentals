@@ -1,4 +1,4 @@
-﻿namespace _3.Sum__Min__Max__First__Last__Average
+﻿namespace _03.Sum__Min__Max__First__Last__Average
 {
 	using System;
 	using System.Linq;
