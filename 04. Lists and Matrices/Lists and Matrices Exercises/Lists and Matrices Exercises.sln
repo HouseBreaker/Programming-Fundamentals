@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Max Platform 3 x 3", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Hourglass Sum", "06. Hourglass Sum\06. Hourglass Sum.csproj", "{FC8FE03F-8A8D-44D8-AFE5-5414C541ED3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Sum Reversed Numbers", "011. Sum Reversed Numbers\11. Sum Reversed Numbers.csproj", "{69927102-7E2A-4BA4-B248-2588461159E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Sum Reversed Numbers", "11. Sum Reversed Numbers\11. Sum Reversed Numbers.csproj", "{69927102-7E2A-4BA4-B248-2588461159E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Bomb Numbers", "12. Bomb Numbers\12. Bomb Numbers.csproj", "{3CEBFA65-DF90-41E6-A722-29D1E16F7871}"
 EndProject
